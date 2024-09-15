@@ -9,6 +9,7 @@ int main() {
     funcion1();
     funcion2(5, 2.67);
     v = funcion3(10);
+    funcion4()
 
     // Imprime el valor que retornó funcion3()
     printf("v = %d\n", v);
