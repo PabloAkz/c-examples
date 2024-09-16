@@ -10,7 +10,7 @@ int main() {
     funcion2(5, 2.67);
     v = funcion3(10);
     funcion4(2);
-    funciion5(2);
+    funcion5(2);
 
     // Imprime el valor que retornó funcion3()
     printf("v = %d\n", v);
